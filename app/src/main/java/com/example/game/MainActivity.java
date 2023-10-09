@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnUndo;
     Button btnRedo;
 
+    jimmy
+
     TextView[] txt = new TextView[9];
     int cnt = 0;
 
